@@ -1,6 +1,6 @@
-# EDIT: this library is available at https://github.com/OxfordML/bayesquad under an MIT license
-# we customized it by adding WSABI-M and a log-transform (in gps.py)
-# the file bq_wrapper.py contains the wrapper class, which exposes the BQ functionality to the land_quadrature.py module
+## EDIT: this library is available at https://github.com/OxfordML/bayesquad under an MIT license
+## we customized it by adding WSABI-M and a log-transform (in gps.py)
+## the file bq_wrapper.py contains the wrapper class, which exposes the BQ functionality to the land_quadrature.py module
 
 # Bayesian Quadrature
 
