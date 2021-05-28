@@ -2,7 +2,6 @@ import numpy as np
 from core import geodesics
 from core import utils
 from bayesquad.bq_wrapper import BQWrapper
-from bayesquad.ratio_bq_wrapper import RatioBQWrapper
 import time
 import copy
 import dill
