@@ -4,7 +4,7 @@ This code includes the core of the LAND mixture model (geodesic methods + optimi
 a Bayesian quadrature (BQ) implementation based on the ''bayesquad'' library (see bayesquad/LICENSE).
 A small demo is included in the file demo.py, which shows how to fit a LAND mixture using MC or BQ. 
 
-Code, including multiple examples, will be publicly hosted on github upon acceptance.
+Documentation will still be added.
 
 Requirements:
 * python==3.7.7
